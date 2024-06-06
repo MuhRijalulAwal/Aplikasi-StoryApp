@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Tunjukkan keseruanmu kepada teman-teman di Story App!</string>
+    <string name="title_welcome_page">Selamat datang di Story App!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk berbagi cerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="upload_by">Uploaded by:</string>
+    <string name="add">add\n</string>
+    <string name="Camera">Camera\n</string>
+    <string name="Upload">Upload</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Desc">Description</string>
+    <string name="foto">foto</string>
+    <string name="setError">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="erorPass">Password cant less than 8 characters</string>
+    <string name="erorEmail">Email must contain user@email.com</string>
+    <string name="deskripsi">Description</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
